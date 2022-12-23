@@ -5,8 +5,10 @@ body{
 #banner{
     width: 100%;
 }
-
-h1{
+.titulo-principal{
+    padding-left: 20px;
+}
+.titulo-centralizado{
     text-align: center;
 }
 p{
@@ -35,9 +37,7 @@ em strong {
     padding: 30px;
 }
 
-h2{
-    text-align: center;
-}
+
 
 ul{
     display: inline-block;
