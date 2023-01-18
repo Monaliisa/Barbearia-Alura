@@ -156,6 +156,7 @@ td, th {
     font-size: 2em;
     margin: 0 0 1em;
     clear: left;
+
 }
 
 .principal {
@@ -223,6 +224,7 @@ td, th {
     width: 60%;
     opacity: 1;
     transition:400ms;
+    box-shadow: 10px 10px 10px 0 #000000;
 }
 
 .imagembeneficios:hover{
